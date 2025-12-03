@@ -1,5 +1,5 @@
 This tool aims to analyze consumer demand, trend strengths and optimal pricing for fashion products using weighted data inputs.
-It is a extension of my prevous tool "margin_calulator_fashion", expanding from only calculating tá win marginf to giving further insigth into ones market competitivity.
+It is a extension of my prevous tool "margin_calulator_fashion", expanding from only calculating the optimal price margin, to giving further insigth into ones market competitivity.
 It does so on the basis of:
 - Search and social trend metrics
 - Influencer activity evaluation
